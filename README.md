@@ -1,2 +1,3 @@
-# demo
-  一些学习过程中的demo，做一个整理放在这里。
+# demo in practice.
+##### This repository has open github Pages.
+##### You can view the issue in `https:feng-fu.github.io/demo/` add the filename.
